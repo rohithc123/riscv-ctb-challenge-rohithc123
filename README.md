@@ -1,1 +1,4 @@
-# riscv_ctb_challenges
+The RISC STB Challenge is a competition to design and implement a Reduced Instruction Set Computer (RISC) processor for a set-top box (STB). The goal is to create a processor that is both efficient and powerful enough to handle the demands of modern STB applications, such as streaming video, gaming, and interactive TV.
+The challenge is divided into two phases. In the first phase, participants will submit their processor designs to a judging panel. The judges will evaluate the designs based on a number of factors, including performance, efficiency, and cost. The top designs from the first phase will be selected to participate in the second phase, which will involve implementing the designs in hardware and testing them on real-world STB applications.
+
+I attempted the RISC STB Challenge, but unfortunately, I was not able to complete it. I learned a lot from the experience, and I hope to participate in future challenges.
